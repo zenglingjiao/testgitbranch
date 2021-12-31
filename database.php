@@ -76,11 +76,7 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => '127.0.0.1',
-<<<<<<< HEAD
 	'username' => 'huiduoduo54321',
-=======
-	'username' => 'huiduoduo',
->>>>>>> parent of 3b215ec... 3123
 	'password' => 'xdd51^&*',
 	'database' => 'huiduoduo_db',
 	'dbdriver' => 'mysqli',
